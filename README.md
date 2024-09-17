@@ -1,6 +1,6 @@
 
 # FinFoods
-```bash
+
 **FinFoods** is a dynamic recipe-sharing platform designed to help users discover, share, and customize recipes. Features include:
 
 - **Explore Recipes**: Browse and explore random recipes.
@@ -11,7 +11,7 @@
 ## Future Updates
 
 - **Lifestyle-Based Recommendations**: Personalized food suggestions based on dietary preferences and lifestyle choices.
-```
+  
 ## Getting Started
 
 1. **Clone the Repository**:
